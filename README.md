@@ -1,5 +1,4 @@
-Hi, my name is LaDarion. I started off college as a mechanical engineer major and left a computer science major. Although I haven't obtained a computer science degree
-yet, I dedicate my time to teaching myself as much as I can. I am now currently training to be a Quality Assurance Engineer Tester. 
+Hi, my name is LaDarion. I started off college as a mechanical engineer major and left a computer science major. I have now undergone training to be a Quality Assurance Engineer Tester and will be continuing to expand my knowledge. This profile consists of some past projects with my time at University of Denver on top of recent projects from the training. 
 
 <!---
 LDWells/LDWells is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
