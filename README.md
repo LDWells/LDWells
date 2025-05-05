@@ -1,18 +1,15 @@
 ## Hi there, I'm **LaDarion**! 👋
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a diverse background and a desire for knowledge. Let me tell you a bit about myself.
+Welcome to my GitHub portfolio! I'm a dedicated and growth-oriented **Software Engineer** with hands-on experience in **Java, Python, JavaScript**, and modern frameworks like **Spring Boot**, **React**, and **Docker**. My goal is to build reliable, scalable, and impactful software solutions while continuously learning and growing as a developer.
 
-🎓 My journey began as a mechanical engineering major, but my fascination with computer science led me to switch majors. Now, I'm fully dedicated to honing my skills as a computer scientist and software engineer.
+🎓 My journey started at the University of Denver, and I've since expanded my skills through intensive training programs in software engineering and quality assurance.
 
-🧪 I've also undergone specialized training as a Quality Assurance Engineer Tester, where I gained valuable insights into software testing methodologies and techniques.
-
-💡 This profile showcases a collection of my past projects from my time at the University of Denver, along with recent projects I've undertaken during my training. I'm constantly seeking new opportunities to expand my knowledge and grow as a developer.
 
 <h2>What you'll find here</h2>
 
   🚀 A variety of projects that demonstrate my technical abilities and problem-solving skills.
 
-  📚 A mix of university assignments, personal projects, and collaborations with fellow developers.
+  📚 A mix of university and training assignments, personal projects, and collaborations with fellow developers.
 
   🔭 Ongoing efforts to explore new technologies and broaden my horizons in the world of software development.
 
