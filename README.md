@@ -20,7 +20,7 @@ My journey started at the **University of Denver**, where I earned my degree in 
 
 ## 🤝 Get In Touch
 
-I'm always open to **collaboration**, **project discussions**, or simply connecting with fellow developers and tech enthusiasts!
+If you’d like to connect or have questions about any of my projects, feel free to reach out!
 
 - 📫 Email: [LaDarionWells@gmail.com](mailto:LaDarionWells@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/ladarion-wells](https://www.linkedin.com/in/ladarion-wells)
